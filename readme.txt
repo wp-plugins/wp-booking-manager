@@ -9,7 +9,7 @@ Requires at least: 3.3.0.
 
 
 
-Wordpress Booking Manager. 
+using Wordpress Booking Manager you can easily manage your booking with rich admin options and check availability with calendar. 
 
 == Description ==
 
