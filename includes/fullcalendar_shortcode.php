@@ -1,5 +1,5 @@
 <?php  
-  function gen_sccalendar_shortcode($atts){ 
+  function gen_ustscalendar_shortcode($atts){ 
 		//if ( is_user_logged_in() ){
 			global $table_prefix,$wpdb;
 			$room = "";
@@ -222,4 +222,4 @@
 			return "<div style='color:#C30909;'>Please login to access this page.</div>";
 		}*/
 	}
-	add_shortcode('gen_sccalendar','gen_sccalendar_shortcode');
+	add_shortcode('gen_ustscalendar','gen_ustscalendar_shortcode');
